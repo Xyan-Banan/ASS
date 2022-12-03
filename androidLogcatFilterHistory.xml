@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine colors" />
+    <option name="mostRecentlyUsed" value="package:mine appeara" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine appeara" />
         <option value="package:mine colors" />
         <option value="package:mine " />
         <option value="package:mine level:debug  colors" />
