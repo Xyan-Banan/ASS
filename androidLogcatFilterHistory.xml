@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine -tag:Op" />
         <option value="package:mine tag:TAG " />
         <option value="package:mine" />
         <option value="package:mine tag:TAG" />
@@ -22,7 +23,6 @@
         <option value="package:mine level:debug  colors" />
         <option value="package:mine level:debug  color" />
         <option value="package:mine level:debug  binded" />
-        <option value="package:mine level:DEBUG color" />
       </list>
     </option>
   </component>
