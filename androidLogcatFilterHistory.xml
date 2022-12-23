@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:TAG " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:TAG " />
         <option value="package:mine" />
         <option value="package:mine tag:TAG" />
-        <option value="package:mine " />
         <option value="package:mine tag:AppBlockService" />
         <option value="package:mine tag:AppBlockService level:ERROR " />
         <option value="package:mine tag:AppBlockService " />
