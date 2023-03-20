@@ -8,7 +8,7 @@
             <value value="aba3508c" />
           </Key>
         </key>
-        <name value="OnePlus ONEPLUS A5000" />
+        <name value="ONEPLUS A5000" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
