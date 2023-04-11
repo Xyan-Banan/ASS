@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:TAG dis" />
+    <option name="mostRecentlyUsed" value="package:mine tag:TAG came" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:TAG came" />
         <option value="package:mine tag:TAG dis" />
         <option value="package:mine tag:TAG on ca" />
         <option value="package:mine tag:TAG distance" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:MyAccessibilityServiceLog " />
         <option value="package:mine tag:TAG  " />
         <option value="package:mine level:debug level~:error" />
-        <option value="package:mine level:debug ~level:debug" />
       </list>
     </option>
   </component>
