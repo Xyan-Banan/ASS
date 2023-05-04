@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:ru.crptech.mark.dev tag:tag " />
+    <option name="mostRecentlyUsed" value="package:ru.crptech.mark.dev tag:FACSCACHEGMSMODULE " />
     <option name="nonFavorites">
       <list>
+        <option value="package:ru.crptech.mark.dev tag:FACSCACHEGMSMODULE " />
         <option value="package:ru.crptech.mark.dev tag:tag " />
         <option value="package:mine tag:tag" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine -tag:Op" />
         <option value="package:mine tag:AppBlockService" />
         <option value="package:mine tag:AppBlockService level:ERROR " />
-        <option value="package:mine tag:AppBlockService " />
       </list>
     </option>
   </component>
