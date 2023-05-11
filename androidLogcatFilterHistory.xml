@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:ru.crptech.mark. tag:tag" />
+    <option name="mostRecentlyUsed" value="package:ru.crptech.mark. " />
     <option name="nonFavorites">
       <list>
+        <option value="package:ru.crptech.mark. " />
         <option value="package:ru.crptech.mark. tag:tag" />
         <option value="package:ru.crptech.mark.dev tag:FCM tag:TAG" />
         <option value="package:ru.crptech.mark.dev tag:FCM" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:TAG sha" />
         <option value="package:mine " />
         <option value="package:mine tag:OverviewView" />
-        <option value="package:mine tag:OverviewViewModel " />
       </list>
     </option>
   </component>
