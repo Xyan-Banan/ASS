@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Kotlin/Enable/disable a trailing comma in the formatter" />
+  </component>
+</application>
