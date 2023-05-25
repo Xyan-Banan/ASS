@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:tag" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:tag" />
         <option value="package:mine " />
         <option value="package:mine tag:tag " />
         <option value="package:ru.crptech.mark" />
@@ -11,7 +13,6 @@
         <option value="package:ru.crptech.mark.dev tag:FCM" />
         <option value="package:ru.crptech.mark.dev tag:FACSCACHEGMSMODULE " />
         <option value="package:ru.crptech.mark.dev tag:tag " />
-        <option value="package:mine tag:tag" />
         <option value="package:mine" />
         <option value="package:mine tag:TAG " />
         <option value="package:mine tag:TAG" />
