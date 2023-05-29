@@ -1,26 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:ru.crptech.mark" />
+    <option name="mostRecentlyUsed" value="package:mine tag:tag  " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:tag " />
-        <option value="package:ru.crptech.mark" />
-        <option value="package:ru.crptech.mark. tag:tag" />
-        <option value="package:ru.crptech.mark. " />
-        <option value="package:ru.crptech.mark.dev tag:FCM tag:TAG" />
-        <option value="package:ru.crptech.mark.dev tag:FCM" />
-        <option value="package:ru.crptech.mark.dev tag:FACSCACHEGMSMODULE " />
-        <option value="package:ru.crptech.mark.dev tag:tag " />
-        <option value="package:mine" />
-        <option value="package:mine tag:TAG " />
-        <option value="package:mine tag:TAG" />
-        <option value="package:mine tag:TAG barcode" />
-        <option value="package:mine tag:TAG came" />
-        <option value="package:mine tag:TAG dis" />
-        <option value="package:mine tag:TAG on ca" />
-        <option value="package:mine tag:TAG distance" />
-        <option value="package:mine tag:TAG on came" />
-        <option value="package:mine tag:TAG user" />
+        <option value="package:mine tag:tag  " />
+        <option value="tag:TAG " />
+        <option value="package:mine " />
+        <option value="package:mine tag:tag" />
       </list>
     </option>
   </component>
