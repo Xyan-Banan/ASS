@@ -1,17 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:ru.crptech.mark.dev refere" />
+    <option name="mostRecentlyUsed" value="package:mine tag:tag" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:tag" />
+        <option value="package:mine level:error " />
+        <option value="package:mine " />
+        <option value="package:ru.crptech.mark.dev" />
         <option value="package:ru.crptech.mark.dev refere" />
         <option value="package:ru.crptech.mark.dev " />
         <option value="package:mine tag:tag tag:BottomSheetBehavior" />
-        <option value="package:mine " />
         <option value="package:mine tag:tag tag:BottomShee" />
         <option value="package:mine tag:tag " />
         <option value="package:mine tag:" />
         <option value="package:mine" />
-        <option value="package:mine tag:tag" />
         <option value="package:mine tag:tag  " />
         <option value="tag:TAG " />
       </list>
