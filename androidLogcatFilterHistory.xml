@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:reference" />
+        <option value="package:mine tag:reference tag:dynamic link" />
         <option value="package:ru.crpt.intenttest fire" />
         <option value="package:mine tag:tag" />
         <option value="package:mine " />
