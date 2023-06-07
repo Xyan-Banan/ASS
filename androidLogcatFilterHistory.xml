@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:ru.crpt.intenttest tag:tag" />
     <option name="nonFavorites">
       <list>
+        <option value="package:ru.crpt.intenttest tag:tag" />
+        <option value="package:mine tag:reference " />
         <option value="package:mine" />
         <option value="package:mine tag:reference" />
         <option value="package:mine tag:reference tag:dynamic link" />
