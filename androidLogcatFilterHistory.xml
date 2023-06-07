@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 " />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 tag:tag" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 tag:tag" />
+        <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine " />
         <option value="package:ru.crpt.intenttest tag:tag" />
         <option value="package:mine tag:reference " />
