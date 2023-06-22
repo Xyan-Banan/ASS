@@ -8,8 +8,9 @@
             <value value="E6V8YTHIEU8D85DQ" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="Xiaomi M1908C3JGG" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
