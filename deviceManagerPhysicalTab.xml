@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="E6V8YTHIEU8D85DQ" />
+          </Key>
+        </key>
+        <name value="Xiaomi M1908C3JGG" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="aba3508c" />
           </Key>
         </key>

@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:tag" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:okhttp.OkHttpClient " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:tag" />
+        <option value="package:mine -tag:gralloc4 -tag:okhttp.OkHttpClient " />
+        <option value="package:mine -tag:gralloc4 -tag:okhttp.OkHttpClient tag:tag" />
+        <option value="package:mine -tag:gralloc4 -tag:okhttp.OkHttpClient tag:tag " />
+        <option value="package:mine -tag:gralloc4 -tag:okhttp.OkHttpClient tag:reference " />
+        <option value="package:ru.crpt.intenttest" />
+        <option value="package:mine -tag:gralloc4 -tag:okhttp.OkHttpClient tag:tag\" />
+        <option value="package:mine -tag:gralloc4 -tag:okhttp.OkHttpClient" />
+        <option value="package:mine -tag:gralloc4" />
+        <option value="package:mine -tag:gralloc4 tag:tag" />
+        <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine " />
-        <option value="package:mine tag:tag " />
-        <option value="package:ru.crptech.mark" />
-        <option value="package:ru.crptech.mark. tag:tag" />
-        <option value="package:ru.crptech.mark. " />
-        <option value="package:ru.crptech.mark.dev tag:FCM tag:TAG" />
-        <option value="package:ru.crptech.mark.dev tag:FCM" />
-        <option value="package:ru.crptech.mark.dev tag:FACSCACHEGMSMODULE " />
-        <option value="package:ru.crptech.mark.dev tag:tag " />
+        <option value="package:ru.crpt.intenttest tag:tag" />
+        <option value="package:mine tag:reference " />
         <option value="package:mine" />
-        <option value="package:mine tag:TAG " />
-        <option value="package:mine tag:TAG" />
-        <option value="package:mine tag:TAG barcode" />
-        <option value="package:mine tag:TAG came" />
-        <option value="package:mine tag:TAG dis" />
-        <option value="package:mine tag:TAG on ca" />
-        <option value="package:mine tag:TAG distance" />
-        <option value="package:mine tag:TAG on came" />
-        <option value="package:mine tag:TAG user" />
+        <option value="package:mine tag:reference" />
+        <option value="package:mine tag:reference tag:dynamic link" />
+        <option value="package:ru.crpt.intenttest fire" />
+        <option value="package:mine tag:tag" />
+        <option value="package:mine level:error " />
+        <option value="package:ru.crptech.mark.dev" />
       </list>
     </option>
   </component>
