@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:tag" />
+        <option value="package:mine " />
         <option value="package:mine -tag:gralloc4 -tag:okhttp.OkHttpClient " />
         <option value="package:mine -tag:gralloc4 -tag:okhttp.OkHttpClient tag:tag" />
         <option value="package:mine -tag:gralloc4 -tag:okhttp.OkHttpClient tag:tag " />
@@ -14,7 +15,6 @@
         <option value="package:mine -tag:gralloc4" />
         <option value="package:mine -tag:gralloc4 tag:tag" />
         <option value="package:mine -tag:gralloc4 " />
-        <option value="package:mine " />
         <option value="package:ru.crpt.intenttest tag:tag" />
         <option value="package:mine tag:reference " />
         <option value="package:mine" />
